@@ -4,7 +4,7 @@
 
 <h1 align="center">Quest Information Hub (QHub)</h1>
 
-<p align="center"><strong>The best way to predict the future is to invent it.</strong></p>
+<p align="center"><strong>Your Quest, our Solution.</strong></p>
 
 ---
 
@@ -54,8 +54,8 @@ We are currently developing:
 ---
 
 ### 📬 Get in Touch
-- 🌐 [Website](https://qhub.pro)
-- 📧 contact@qhub.pro
+- 🌐 [Website](https://qinformationhub.com)
+- 📧 qinformationhub@gmail.com
 
 ---
 
