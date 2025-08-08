@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://qinformationhub.com/wp-content/uploads/2025/08/QHub-cover_updated.png" alt="QHub Logo" width="180"/>
+  <img src="https://qinformationhub.com/wp-content/uploads/2025/08/LOGO-without-Background-1.png" alt="QHub Logo" width="180"/>
 </p>
 
 <h1 align="center">Quest Information Hub (QHub)</h1>
 
-<p align="left">
-  <img src="https://qinformationhub.com/wp-content/uploads/2025/08/LOGO-without-Background-1.png" alt="QHub Logo" width="180"/>
-</p>
 <p align="center"><strong>Your Quest, Our Solution.</strong></p>
 
 ---
