@@ -4,7 +4,7 @@
 
 <h1 align="center">Quest Information Hub (QHub)</h1>
 
-<p align="center"><strong>Your Quest, our Solution.</strong></p>
+<p align="center"><strong>Your Quest, Our Solution.</strong></p>
 
 ---
 
