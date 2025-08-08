@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://qhub.pro/wp-content/uploads/2024/08/new-qhub-logo-1.png](https://qinformationhub.com/wp-content/uploads/2025/08/LOGO-without-Background-1.png)" alt="QHub Logo" width="180"/>
+  <img src="https://qinformationhub.com/wp-content/uploads/2025/08/LOGO-without-Background-1.png" alt="QHub Logo" width="180"/>
 </p>
 
 <h1 align="center">Quest Information Hub (QHub)</h1>
